@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "141997481835",
+    "firebase_url": "https://deaf-and-dumb-talk.firebaseio.com",
+    "project_id": "deaf-and-dumb-talk",
+    "storage_bucket": "deaf-and-dumb-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141997481835:android:54a8e449290cecb4bdf62e",
+        "android_client_info": {
+          "package_name": "com.example.deafanddumbtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141997481835-sui8ra2k1fcberu4srftk3v09hefq4od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDo3Go6P6AkKgoJ1_Xo_sPBdSLeqRzGEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141997481835-sui8ra2k1fcberu4srftk3v09hefq4od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
